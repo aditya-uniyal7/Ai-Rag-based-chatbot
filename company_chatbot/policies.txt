@@ -1,0 +1,674 @@
+ Gemini
+New chat
+Search chats
+Images
+Videos
+Library
+FAQ Language Strategy Discussion
+LangChain RAG Project Ideas
+Managing RAR Files in Linux Mint
+Linux Mint Repository Error Troubleshooting
+Blood Pressure and Pulse Reading Analysis
+Blood Pressure Reading Interpretation and Health
+Uninstall Telegram Desktop on Linux Mint
+LangChain PDF Summarization Code Fix
+Cluster-Based Query Indexing and Comparison
+Knee X-ray Analysis and Osteoarthritis
+PyCharm vs. VS Code Resource Usage
+Mint Linux Performance Troubleshooting Guide
+Laptop Ethernet Internet Connection Guide
+Move Zeros Efficiently
+SI Unit of Electric Current
+HuggingFace Endpoint vs. Chat Model
+Organizing LLM Prompts Professionally
+टोकनाइज़र: AI और NLP का मूल
+GenAI vs. NLP: Learning Path
+NLP's Role in Generative AI
+Understanding FastAPI: A Web Framework
+Startup Environment: Impact, Learning, Velocity
+Accidental Single Letter Input
+Container With Most Water Logic
+Finding Second Highest Salary in SQL
+Embedding Formulation and Applications
+YouTube Virality Predictor Project
+Record Webcam on Linux Mint
+Installing Antigravity on Linux
+Heart Disease Prediction Model Workflow
+Fixing `train.py` File Path Error
+Local File Path Access Denied
+Logistic Regression Confusion Matrix Explained
+Resume Feedback for AI Engineering
+Pip Install Error: Externally Managed Environment
+Evaluating Internship Legitimacy and Avoiding Scams
+MCA Student Resume Professional Summary
+Backend AI Engineering Application Draft
+Understanding Linear Equation Components
+Machine Learning Next Steps After Linear Regression
+Photo Enhancement To High Definition
+Fixing Linear Search Algorithm Bug
+NumPy Operations Cheat Sheet
+Linear Regression Code Explained
+Linear Regression Model Implementation
+Linked List Head Pointers Confirmation
+Applying for Coursera Financial Aid
+AI/ML and LangChain Learning Roadmap
+Building a LangChain Study Buddy
+Integer Square Root Using Binary Search
+Debugging Move Zeroes Array Logic
+Python Code Debugging: Unreachable Return
+Summing Array Elements in Python/JavaScript
+Japanese Vocab Widget Design Concepts
+Conversation with Gemini
+
+# TechShop Customer Support FAQ
+
+
+## Returns & Refunds
+
+
+**Q: Mera order return kaise karu?**
+
+A: Aap delivery ke 30 din ke andar order return kar sakte hain. Return ke liye:
+
+1. support@techshop.com pe email karo
+
+2. Order ID aur return reason batao
+
+3. Hum aapko prepaid return label bhejenge
+
+4. Item receive hone ke baad 5-7 business days mein refund milega
+
+
+**Q: Damaged product mila, kya karu?**
+
+A: Agar product damaged mila hai to:
+
+- Photos lo damage ki
+
+- 48 ghante ke andar humse contact karo
+
+- Hum free replacement ya full refund denge
+
+
+**Q: Refund kitne din mein aata hai?**
+
+A: Credit card pe 5-7 business days, UPI/net banking pe 2-3 business days lagते hain.
+
+
+---
+
+
+## Orders & Shipping
+
+
+**Q: Order track kaise karu?**
+
+A: Order place karne ke baad aapko email pe tracking link milega. Ya phir website pe "My Orders" section mein jaake track kar sakte hain.
+
+
+**Q: Delivery kitne din mein hogi?**
+
+A:
+
+- Metro cities: 2-3 business days
+
+- Tier-2 cities: 4-5 business days
+
+- Remote areas: 7-10 business days
+
+
+**Q: Cash on Delivery available hai?**
+
+A: Haan, 500 rupees se upar ke orders pe COD available hai. COD charges: 49 rupees extra.
+
+
+**Q: Order cancel kaise karu?**
+
+A: Order shipped hone se pehle cancel kar sakte hain. "My Orders" mein jaake Cancel button click karo. Agar shipped ho gaya hai to return process follow karo.
+
+
+---
+
+
+## Products & Warranty
+
+
+**Q: Warranty kitni milti hai?**
+
+A:
+
+- Electronics: 1 saal manufacturer warranty
+
+- Accessories: 6 mahine warranty
+
+- TechShop Extended Warranty bhi available hai (1-3 saal)
+
+
+**Q: Product authentic hai kaise check karu?**
+
+A: Sabhi products 100% authentic hain. Har product ke saath official manufacturer seal aur hologram hota hai.
+
+
+**Q: Out of stock product kab milega?**
+
+A: Product page pe "Notify Me" button click karo. Stock aate hi email notification milegi.
+
+
+---
+
+
+## Payment & Offers
+
+
+**Q: Kaun kaun se payment methods accept hote hain?**
+
+A:
+
+- Credit/Debit Cards (Visa, Mastercard, RuPay)
+
+- UPI (GPay, PhonePe, Paytm)
+
+- Net Banking
+
+- EMI (6/12/24 months)
+
+- Cash on Delivery
+
+
+**Q: EMI pe koi extra charge lagta hai?**
+
+A: 0% EMI available hai select banks pe 3 aur 6 months ke liye. 12+ months pe processing fee lagti hai.
+
+
+**Q: Mera promo code kaam nahi kar raha?**
+
+A: Check karo ki:
+
+1. Code expire to nahi hua
+
+2. Minimum order value meet ho rahi hai
+
+3. Code sirf specific products pe applicable hai
+
+Phir bhi problem ho to customer care se contact karo.
+
+
+---
+
+
+## Account & Technical
+
+
+**Q: Password reset kaise karu?**
+
+A: Login page pe "Forgot Password" click karo. Registered email pe reset link milega.
+
+
+**Q: Multiple addresses kaise save karu?**
+
+A: My Account > Address Book mein multiple addresses add kar sakte hain.
+
+
+**Q: App crash ho rahi hai, kya karu?**
+
+A: App uninstall karke fresh install karo. Agar phir bhi problem hai to support@techshop.com pe contact karo with your device model.
+
+
+---
+
+
+## Contact Information
+
+
+- **Email**: support@techshop.com
+
+- **Phone**: 1800-XXX-XXXX (Mon-Sat, 9AM-6PM)
+
+- **Live Chat**: Website pe available hai
+
+- **Response Time**: Email - 24 hours, Chat - 5 minutes
+
+
+y mne rag ke lie data bnaya h kya merkon ise english mein vbnanan pdega what if usr talk in english
+
+Aditya, yeh data kaafi accha aur structured hai. Iska jawab yeh hai: Humein ise alag se English mein banane ki zaroorat nahi hai.
+
+Darasal, aapne jo format use kiya hai (Hindi-English mix, jise "Hinglish" kehte hain), woh Indian tech consumers ke liye bahut natural aur friendly hai.
+
+Halaanki, agar aap apne customer base ko expand karna chahte hain ya professional image maintain karna chahte hain, toh yahan kuch options hain:
+Options for Language Handling
+
+    Dual Language Version (Recommended): Aap apni FAQ page par ek "Toggle" ya do tabs de sakte hain—English aur Hinglish. Jab user English mein switch karega, toh aap sirf isi content ko formal English mein translate karke dikha sakte hain.
+
+    Smart Detection (AI Bot): Agar aapne apni website par AI-based support bot lagaya hai, toh woh automatically detect kar lega ki user kis language mein baat kar raha hai.
+
+        Agar user English mein puchta hai: "How to return my order?" -> AI automatically English mein jawab dega.
+
+        Agar user Hinglish mein puchta hai: "Mera order return kaise karu?" -> AI aapke isi existing data se jawab dega.
+
+Kya aapko English mein translate karna chahiye?
+
+Humein ise "manual" translate karne ki zaroorat nahi hai. Aajkal ke AI tools (jaise jise aap use kar rahe hain) real-time mein aapke existing data ko translate kar sakte hain.
+
+Pro Tip: Agar aap chahte hain ki main abhi ke liye aapko isi FAQ ka ek Professional English Version bana kar de doon (taaki aapke paas backup rahe), toh bas ek baar "Yes" bol dijiye, main turant generate kar dunga.
+
+Kya aap chahte hain ki main iska English version ready karu, ya phir aap isi Hinglish style ko hi continue karna chahenge?
+
+mne ye rag mein use krunga
+
+Agar aap ise RAG (Retrieval-Augmented Generation) pipeline mein use karne wale hain, toh aapka approach aur bhi behtar ho sakta hai. RAG systems ke liye Data Quality aur Consistency sabse zyada important hoti hai.
+
+Yahan kuch points hain jo aapke RAG setup ko majboot banayenge:
+1. RAG ke liye "Bilingual" Approach
+
+Jab aap RAG build kar rahe hain, toh aapko alag se translate karne ki zaroorat nahi hai agar aapka model (LLM) multilingual hai (jaise GPT-4, Gemini, ya Claude).
+
+    Context Chunking: Aapka current Hinglish data ek "Source of Truth" ki tarah act karega.
+
+    Handling English Queries: Jab user English mein question puchega, aapka RAG system Hinglish document ko fetch (retrieve) karega. LLM usse info extract karke English mein fluently jawab de dega.
+
+    Faida: Aapko do alag datasets maintain nahi karne padenge. Sirf ek hi file (yahi Hinglish FAQ) ko knowledge base mein rakhein.
+
+2. RAG Optimization (Data Cleaning)
+
+Aapke data ko model aur ache se samjhe, iske liye yeh format follow karein:
+
+    Consistent Headings: ### aur  ka use sahi rakhein taaki chunking asaan ho.
+
+    Metadata Add Karein: Agar ho sake toh har section ke saath tags add karein (e.g., Category: Returns, Keywords: refund, credit card). Yeh retrieval accuracy badha deta hai.
+
+    Standardize Q&A: Hinglish mein sawaal-jawab achhe hain, lekin agar kuch technical terms hain (e.g., "Manufacturer Warranty"), toh unhe waisa hi rehne dein, translate na karein.
+
+3. Example of a robust RAG entry
+
+Aap apne data ko aise structure karein (Markdown format is best for RAG):
+Markdown
+
+### Category: Returns & Refunds
+**Question:** Mera order return kaise karu? / How to return my order?
+**Answer:** Aap delivery ke 30 din ke andar order return kar sakte hain. 
+1. Email: support@techshop.com
+2. Provide: Order ID and reason for return.
+3. Process: You will receive a prepaid return label.
+4. Refund: Takes 5-7 business days after item receipt.
+
+Meri Salah
+
+Aapko separate English version banane ki zaroorat nahi hai. Hinglish data par RAG train karna aur use query karna aajkal ke LLMs ke liye bahut simple hai.
+
+    Agar user English mein poochega: LLM aapke Hinglish data se info uthayega aur English mein convert karke output dega.
+
+    Agar user Hinglish mein poochega: LLM natural Hinglish mein hi reply karega.
+
+Yeh approach aapka kaam aadha kar degi aur system bhi smart lagega. Kya aapne apna RAG framework decide kar liya hai (e.g., LangChain, LlamaIndex), ya aap abhi sirf data prepare kar rahe hain?
+
+TechShop Customer Support FAQ
+
+Returns & Refunds
+
+Q: Mera order return kaise karu?
+
+A: Aap delivery ke 30 din ke andar order return kar sakte hain. Return ke liye:
+
+
+support@techshop.com pe email karo
+
+Order ID aur return reason batao
+
+Hum aapko prepaid return label bhejenge
+
+Item receive hone ke baad 5-7 business days mein refund milega
+
+Q: Damaged product mila, kya karu?
+
+A: Agar product damaged mila hai to:
+
+
+Photos lo damage ki
+
+48 ghante ke andar humse contact karo
+
+Hum free replacement ya full refund denge
+
+Q: Refund kitne din mein aata hai?
+
+A: Credit card pe 5-7 business days, UPI/net banking pe 2-3 business days lagते hain.
+
+Orders & Shipping
+
+Q: Order track kaise karu?
+
+A: Order place karne ke baad aapko email pe tracking link milega. Ya phir website pe "My Orders" section mein jaake track kar sakte hain.
+
+Q: Delivery kitne din mein hogi?
+
+A:
+
+
+Metro cities: 2-3 business days
+
+Tier-2 cities: 4-5 business days
+
+Remote areas: 7-10 business days
+
+Q: Cash on Delivery available hai?
+
+A: Haan, 500 rupees se upar ke orders pe COD available hai. COD charges: 49 rupees extra.
+
+Q: Order cancel kaise karu?
+
+A: Order shipped hone se pehle cancel kar sakte hain. "My Orders" mein jaake Cancel button click karo. Agar shipped ho gaya hai to return process follow karo.
+
+Products & Warranty
+
+Q: Warranty kitni milti hai?
+
+A:
+
+
+Electronics: 1 saal manufacturer warranty
+
+Accessories: 6 mahine warranty
+
+TechShop Extended Warranty bhi available hai (1-3 saal)
+
+Q: Product authentic hai kaise check karu?
+
+A: Sabhi products 100% authentic hain. Har product ke saath official manufacturer seal aur hologram hota hai.
+
+Q: Out of stock product kab milega?
+
+A: Product page pe "Notify Me" button click karo. Stock aate hi email notification milegi.
+
+Payment & Offers
+
+Q: Kaun kaun se payment methods accept hote hain?
+
+A:
+
+
+Credit/Debit Cards (Visa, Mastercard, RuPay)
+
+UPI (GPay, PhonePe, Paytm)
+
+Net Banking
+
+EMI (6/12/24 months)
+
+Cash on Delivery
+
+Q: EMI pe koi extra charge lagta hai?
+
+A: 0% EMI available hai select banks pe 3 aur 6 months ke liye. 12+ months pe processing fee lagti hai.
+
+Q: Mera promo code kaam nahi kar raha?
+
+A: Check karo ki:
+
+
+Code expire to nahi hua
+
+Minimum order value meet ho rahi hai
+
+Code sirf specific products pe applicable hai
+
+Phir bhi problem ho to customer care se contact karo.
+
+Account & Technical
+
+Q: Password reset kaise karu?
+
+A: Login page pe "Forgot Password" click karo. Registered email pe reset link milega.
+
+Q: Multiple addresses kaise save karu?
+
+A: My Account > Address Book mein multiple addresses add kar sakte hain.
+
+Q: App crash ho rahi hai, kya karu?
+
+A: App uninstall karke fresh install karo. Agar phir bhi problem hai to support@techshop.com pe contact karo with your device model.
+
+Contact Information
+
+Email: support@techshop.com
+
+Phone: 1800-XXX-XXXX (Mon-Sat, 9AM-6PM)
+
+Live Chat: Website pe available hai
+
+Response Time: Email - 24 hours, Chat - 5 minutes
+
+is data ko or llamba kro or fomat sahi kro
+
+RAG (Retrieval-Augmented Generation) system ko behtar banane ke liye, data ka structure consistent hona chahiye. Jab aap data ko "lamba" ya detailed karte hain, toh koshish karein ki har section mein context zyada ho taaki LLM behtar jawab de sake.
+
+Yahan aapke data ka optimized aur structured version hai. Maine isme har jagah uniform formatting use ki hai, jo RAG ke liye ideal hai:
+TechShop Customer Support FAQ
+1. Returns & Refunds
+
+Q: Mera order return kaise karu?
+A: Aap delivery ke 30 din ke andar apna order return kar sakte hain. Return process follow karein:
+
+    Email: Apni request support@techshop.com par bhejein.
+
+    Details: Email mein apna 'Order ID' aur 'Reason for return' zaroor likhein.
+
+    Label: Hum aapko ek 'Prepaid Return Label' email karenge.
+
+    Processing: Item humare warehouse par receive hone ke 5-7 business days ke andar aapka refund process kar diya jayega.
+
+Q: Damaged ya defective product milne par kya karu?
+A: Agar aapko product damaged ya defective mila hai, toh humari priority hai aapko support dena:
+
+    Product ki saaf photos lein jisme damage clear dikh raha ho.
+
+    Delivery milne ke 48 ghante ke andar humse support@techshop.com par contact karein.
+
+    Hum case verify karke ya toh aapko 'Free Replacement' denge ya phir 'Full Refund' initiate karenge.
+
+Q: Refund milne mein kitna samay lagta hai?
+A: Refund aapke payment method ke hisaab se process hota hai:
+
+    Credit/Debit Card: 5-7 business days.
+
+    UPI / Net Banking: 2-3 business days.
+
+2. Orders & Shipping
+
+Q: Main apna order kaise track karu?
+A: Order track karne ke do tareeke hain:
+
+    Email: Order place karte hi aapko ek tracking link email kar diya jayega.
+
+    Website/App: 'My Orders' section mein jaakar live tracking status check karein.
+
+Q: Delivery hone mein kitna time lagega?
+A: Aapki location ke hisaab se estimated delivery time:
+
+    Metro Cities: 2-3 business days.
+
+    Tier-2 Cities: 4-5 business days.
+
+    Remote Areas: 7-10 business days.
+
+Q: Kya Cash on Delivery (COD) ki suvidha uplabdh hai?
+A: Haan, COD ki suvidha 500 rupees se zyada ke orders par uplabdh hai.
+
+    Extra Charge: COD orders ke liye 49 rupees ka flat handling charge lagta hai.
+
+Q: Order cancel kaise karu?
+A: Order ko sirf 'Shipped' hone se pehle cancel kiya ja sakta hai.
+
+    Step: 'My Orders' section mein jaayein aur 'Cancel' button par click karein.
+
+    Note: Agar order ship ho chuka hai, toh delivery lene ke baad 'Return' process follow karna hoga.
+
+3. Products & Warranty
+
+Q: Warranty ki duration kya hai?
+A: Hum sabhi products par warranty provide karte hain:
+
+    Electronics: 1 saal ki manufacturer warranty.
+
+    Accessories: 6 mahine ki warranty.
+
+    Extended Warranty: Aap TechShop Extended Warranty (1 se 3 saal) bhi website se khareed sakte hain.
+
+Q: Product ki authenticity kaise check karein?
+A: TechShop par beche gaye sabhi products 100% authentic hain. Har product ke packaging par official manufacturer seal aur security hologram hota hai, jise aap check kar sakte hain.
+
+Q: Agar product 'Out of Stock' hai toh kya karu?
+A: Product page par 'Notify Me' button par click karein. Jaise hi product dubara stock mein aayega, aapko registered email par notification mil jayega.
+4. Payment & Offers
+
+Q: Kaun-kaun se payment methods accept kiye jaate hain?
+A: Hum har tarah ke safe payment methods support karte hain:
+
+    Cards: Visa, Mastercard, RuPay (Credit & Debit).
+
+    Digital: UPI (GPay, PhonePe, Paytm).
+
+    Others: Net Banking, EMI Options, aur Cash on Delivery.
+
+Q: Kya EMI par koi extra charge lagta hai?
+A: Select banks par 3 aur 6 mahine ke liye 0% interest EMI available hai. 12 mahine ya usse zyada ki tenure par banking processing fees lag sakti hai.
+
+Q: Promo code apply nahi ho raha, kya karu?
+A: Agar code kaam nahi kar raha, toh check karein:
+
+    Kya code ki validity khatam ho gayi hai?
+
+    Kya aapne minimum cart value puri kar li hai?
+
+    Kya offer sirf specific categories ya products par valid hai?
+    Agar problem solve na ho, toh customer care se sampark karein.
+
+5. Account & Technical Support
+
+Q: Password bhool gaya hu, reset kaise karu?
+A: Login page par 'Forgot Password' link par click karein. Aapki registered email par ek password reset link bheja jayega.
+
+Q: Ek se zyada address kaise save karein?
+A: 'My Account' mein jaakar 'Address Book' section mein jaayein. Wahan aap 'Add New Address' karke multiple delivery locations save kar sakte hain.
+
+Q: App baar-baar crash ho rahi hai, kya karu?
+A: Pehle app ko uninstall karke dubara install karein (Fresh install). Agar issue bana rehta hai, toh support@techshop.com par apne 'Device Model' aur 'Error Screenshot' ke saath email karein.
+6. Contact Information
+
+    Email Support: support@techshop.com (Response within 24 hours)
+
+    Phone Support: 1800-XXX-XXXX (Mon-Sat, 9 AM - 6 PM)
+
+    Live Chat: Website par available (Response within 5 minutes)
+
+RAG Tips for you:
+
+    Markdown Use Karein: Maine upar jo formatting use ki hai (headings, bullet points), woh RAG models (like LlamaIndex/LangChain) ke liye data ko "chunk" karne mein sabse asaan hoti hai.
+
+    Keywords: Maine har section mein keywords (like "Return", "Refund", "COD", "Warranty") ko clearly rakha hai, jo retrieval accuracy ko badhata hai.
+
+    No Need for Translation: Yaad rakhein, aapka model English aur Hinglish dono samajhta hai. Yeh format aapke system ko clean response dene mein help karega.
+
+Kya aap isme kuch aur specific services (jaise 'Bulk Orders' ya 'Gift Cards') add karna chahte hain?
+
+txt file dedo
+
+Aapki FAQ file taiyaar hai. Isme maine har section ko clearly format kiya hai taaki RAG system ko query karne mein aasani ho. Maine har question ko Hinglish aur English dono versions mein represent kiya hai taaki aapka model dono tarah ki queries ko achhe se handle kar sake.
+
+Aapki text file taiyaar hai:
+TXT icon
+TechShop_FAQ
+ TXT 
+
+
+Gemini is AI and can make mistakes.
+
+# TechShop Customer Support FAQ
+
+## 1. Returns & Refunds
+Q: Mera order return kaise karu? / How to return my order?
+A: Aap delivery ke 30 din ke andar apna order return kar sakte hain. Return process follow karein:
+1. Email: Apni request support@techshop.com par bhejein.
+2. Details: Email mein apna 'Order ID' aur 'Reason for return' zaroor likhein.
+3. Label: Hum aapko ek 'Prepaid Return Label' email karenge.
+4. Processing: Item humare warehouse par receive hone ke 5-7 business days ke andar aapka refund process kar diya jayega.
+
+Q: Damaged ya defective product milne par kya karu? / What to do if I receive a damaged product?
+A: Agar aapko product damaged ya defective mila hai, toh humari priority hai aapko support dena:
+* Product ki saaf photos lein jisme damage clear dikh raha ho.
+* Delivery milne ke 48 ghante ke andar humse support@techshop.com par contact karein.
+* Hum case verify karke ya toh aapko 'Free Replacement' denge ya phir 'Full Refund' initiate karenge.
+
+Q: Refund milne mein kitna samay lagta hai? / How long does the refund take?
+A: Refund aapke payment method ke hisaab se process hota hai:
+* Credit/Debit Card: 5-7 business days.
+* UPI / Net Banking: 2-3 business days.
+
+## 2. Orders & Shipping
+Q: Main apna order kaise track karu? / How to track my order?
+A: Order track karne ke do tareeke hain:
+1. Email: Order place karte hi aapko ek tracking link email kar diya jayega.
+2. Website/App: 'My Orders' section mein jaakar live tracking status check karein.
+
+Q: Delivery hone mein kitna time lagega? / How long does delivery take?
+A: Aapki location ke hisaab se estimated delivery time:
+* Metro Cities: 2-3 business days.
+* Tier-2 Cities: 4-5 business days.
+* Remote Areas: 7-10 business days.
+
+Q: Kya Cash on Delivery (COD) ki suvidha uplabdh hai? / Is Cash on Delivery available?
+A: Haan, COD ki suvidha 500 rupees se zyada ke orders par uplabdh hai.
+* Extra Charge: COD orders ke liye 49 rupees ka flat handling charge lagta hai.
+
+Q: Order cancel kaise karu? / How to cancel my order?
+A: Order ko sirf 'Shipped' hone se pehle cancel kiya ja sakta hai.
+* Step: 'My Orders' section mein jaayein aur 'Cancel' button par click karein.
+* Note: Agar order ship ho chuka hai, toh delivery lene ke baad 'Return' process follow karna hoga.
+
+## 3. Products & Warranty
+Q: Warranty ki duration kya hai? / What is the warranty duration?
+A: Hum sabhi products par warranty provide karte hain:
+* Electronics: 1 saal ki manufacturer warranty.
+* Accessories: 6 mahine ki warranty.
+* Extended Warranty: Aap TechShop Extended Warranty (1 se 3 saal) bhi website se khareed sakte hain.
+
+Q: Product ki authenticity kaise check karein? / How to check product authenticity?
+A: TechShop par beche gaye sabhi products 100% authentic hain. Har product ke packaging par official manufacturer seal aur security hologram hota hai, jise aap check kar sakte hain.
+
+Q: Agar product 'Out of Stock' hai toh kya karu? / What if the product is out of stock?
+A: Product page par 'Notify Me' button par click karein. Jaise hi product dubara stock mein aayega, aapko registered email par notification mil jayega.
+
+## 4. Payment & Offers
+Q: Kaun-kaun se payment methods accept kiye jaate hain? / What payment methods are accepted?
+A: Hum har tarah ke safe payment methods support karte hain:
+* Cards: Visa, Mastercard, RuPay (Credit & Debit).
+* Digital: UPI (GPay, PhonePe, Paytm).
+* Others: Net Banking, EMI Options, aur Cash on Delivery.
+
+Q: Kya EMI par koi extra charge lagta hai? / Are there extra charges on EMI?
+A: Select banks par 3 aur 6 mahine ke liye 0% interest EMI available hai. 12 mahine ya usse zyada ki tenure par banking processing fees lag sakti hai.
+
+Q: Promo code apply nahi ho raha, kya karu? / Promo code not working?
+A: Agar code kaam nahi kar raha, toh check karein:
+1. Kya code ki validity khatam ho gayi hai?
+2. Kya aapne minimum cart value puri kar li hai?
+3. Kya offer sirf specific categories ya products par valid hai?
+* Agar problem solve na ho, toh customer care se sampark karein.
+
+## 5. Account & Technical Support
+Q: Password bhool gaya hu, reset kaise karu? / How to reset password?
+A: Login page par 'Forgot Password' link par click karein. Aapki registered email par ek password reset link bheja jayega.
+
+Q: Ek se zyada address kaise save karein? / How to save multiple addresses?
+A: 'My Account' mein jaakar 'Address Book' section mein jaayein. Wahan aap 'Add New Address' karke multiple delivery locations save kar sakte hain.
+
+Q: App baar-baar crash ho rahi hai, kya karu? / App crashing issue?
+A: Pehle app ko uninstall karke dubara install karein (Fresh install). Agar issue bana rehta hai, toh support@techshop.com par apne 'Device Model' aur 'Error Screenshot' ke saath email karein.
+
+## 6. Contact Information
+* Email Support: support@techshop.com (Response within 24 hours)
+* Phone Support: 1800-XXX-XXXX (Mon-Sat, 9 AM - 6 PM)
+* Live Chat: Website par available (Response within 5 minutes)
+
+TechShop_FAQ.txt
+Displaying TechShop_FAQ.txt.
