@@ -26,7 +26,7 @@ GenAI vs. NLP: Learning Path
 NLP's Role in Generative AI
 Understanding FastAPI: A Web Framework
 Startup Environment: Impact, Learning, Velocity
-Accidental Single Letter Input
+Accidental Single Letter Inpu
 Container With Most Water Logic
 Finding Second Highest Salary in SQL
 Embedding Formulation and Applications
