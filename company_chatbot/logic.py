@@ -59,14 +59,13 @@ while True:
 
         import streamlit as st
 
-# Page Configuration
 st.set_page_config(page_title="TechShop Support", page_icon="💻")
 
-# UI Style
+
 st.title("💻 TechShop Support Assistant")
 st.markdown("---")
 
-# Sidebar for FAQs
+
 with st.sidebar:
     st.header("Quick Help")
     if st.button("Return Policy"): st.write("30 days return window.")
@@ -74,23 +73,23 @@ with st.sidebar:
     st.markdown("---")
     st.info("Contact: 1800-XXX-XXXX")
 
-# Session State for Chat History
+
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display Chat History
+
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# Chat Input
+
 if prompt := st.chat_input("Apna sawaal puchein..."):
     # User message
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
 
-    # Bot response (Yahan apna Retrieval logic call karein)
+
     with st.chat_message("assistant"):
         # response = qa_chain.invoke(prompt) -- Aapka retrieval logic
         response = "Yeh raha aapka jawab..." # Sample response
